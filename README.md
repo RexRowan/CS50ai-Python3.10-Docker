@@ -8,6 +8,6 @@ If you have a response logged in the console like:
 ```
 Hello, world! Running on Python 3.10
 ```
-Then you are all set! All you need to do is remove the app.py file in this repo, download the zip file from the projects page, run the requriements.txt file and do your project.
+Then you are all set! All you need to do is remove the app.py file in this repo, download the zip file from the project page, run the requriements.txt file and do your project.
 
 Thank you for using this docker container!
