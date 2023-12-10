@@ -1,4 +1,4 @@
-Docker container with Python 3.10 set as default version for fellow students who have trboule with Python versioning.
+Docker container with Python 3.10 set as the default version for fellow students who have trouble with Python versioning.
 
 If you are using CodeSpace then Docker is already installed so in the terminal, run the following code to test if it's live:
 ```
